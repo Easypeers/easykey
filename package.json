@@ -1,6 +1,6 @@
 {
   "name": "easykeys",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate cryptographically secure keypairs",
   "main": "index.js",
   "type": "module",
