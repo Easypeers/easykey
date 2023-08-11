@@ -25,7 +25,7 @@ The test generates 10,000 keypairs and passes if the average [entropy](https://e
 
 ### Browser
 ```html
-<script type="module" src="coming soon"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/easypeers/easykeys@master/index.js"></script>
 ```
 
 ## API
