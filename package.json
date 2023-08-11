@@ -1,0 +1,26 @@
+{
+  "name": "easykey",
+  "version": "1.0.0",
+  "description": "Generate cryptographically secure keypairs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Easypeers/easykey.git"
+  },
+  "keywords": [
+    "keypairs",
+    "keypair",
+    "easykey",
+    "cryptography"
+  ],
+  "author": "Daniel Raeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Easypeers/easykey/issues"
+  },
+  "homepage": "https://github.com/Easypeers/easykey#readme"
+}
