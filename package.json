@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Easypeers/easykey.git"
+    "url": "git+https://github.com/Easypeers/easykesy.git"
   },
   "keywords": [
     "keypairs",
@@ -20,7 +20,7 @@
   "author": "Daniel Raeder",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Easypeers/easykey/issues"
+    "url": "https://github.com/Easypeers/easykeys/issues"
   },
-  "homepage": "https://github.com/Easypeers/easykey#readme"
+  "homepage": "https://github.com/Easypeers/easykeys#readme"
 }
