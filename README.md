@@ -32,7 +32,7 @@ The test generates 10,000 keypairs and passes if the average [entropy](https://e
 ### `new EasyKeys()`
 Create a new instance
 
-### easyKeys.pair()
+### `easyKeys.pair()`
 Return a keypair
 
 ## License
