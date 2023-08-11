@@ -1,4 +1,4 @@
-class EasyKey {
+class EasyKeys {
   constructor() {
     this.chars =
       "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_";
@@ -34,4 +34,4 @@ class EasyKey {
   }
 }
 
-export default EasyKey;
+export default EasyKeys;

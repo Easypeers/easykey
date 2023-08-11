@@ -1,4 +1,4 @@
-import EasyKey from "./index.js";
+import EasyKeys from "./index.js";
 import assert from "assert";
 
 function shannonEntropy(data) {
@@ -30,7 +30,7 @@ let runs = 9_999;
 describe("Check Shannon entropy of keys", () => {
   it("Must have an average entropy greater than 4.5", () => {
     for (let i = 0; i < runs; i++) {
-      const easyKey = new EasyKey();
+      const easyKey = new EasyKeys();
       const pair = easyKey.pair();
 
       // Uncomment the next line if you want to see the keys (beware of flooding your console)

@@ -1,4 +1,4 @@
-# EasyKey
+# EasyKeys
 > Generate cryptographically secure keypairs
 
 - Works in both node and the browser
@@ -7,7 +7,7 @@
 ## Usage
 ### Node
 ```
-npm i easykey
+npm i easykeys
 ```
 
 #### Test
@@ -29,10 +29,10 @@ The test generates 10,000 keypairs and passes if the average [entropy](https://e
 ```
 
 ## API
-### `new EasyKey()`
+### `new EasyKeys()`
 Create a new instance
 
-### easyKey.pair()
+### easyKeys.pair()
 Return a keypair
 
 ## License

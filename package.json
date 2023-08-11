@@ -1,5 +1,5 @@
 {
-  "name": "easykey",
+  "name": "easykeys",
   "version": "1.0.0",
   "description": "Generate cryptographically secure keypairs",
   "main": "index.js",
